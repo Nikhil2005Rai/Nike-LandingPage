@@ -21,6 +21,7 @@ button{
     color: white;
     font-weight: 500;
     cursor: pointer;
+    border: 2px solid white;
 }
 
 .container{
@@ -53,6 +54,10 @@ nav ul li:hover{
     display: flex;
     align-items: center;
     height: calc(100vh - 72px);
+}
+
+nav img{
+    cursor: pointer;
 }
 
 .hero h1{
