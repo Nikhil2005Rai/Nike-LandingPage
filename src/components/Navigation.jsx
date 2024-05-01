@@ -3,7 +3,7 @@ import "./App.css";
 
 const Navigation = () => {
   return (
-    <nav>
+    <nav className="container">
       <div className="logo">
         <img src="../assets/brand_logo.png" alt="logo" />
       </div>
