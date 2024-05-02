@@ -105,3 +105,7 @@ button:hover{
     background: var(--gray);
     color: white;
 }
+
+.hero-image img{
+    user-select: none;
+}
